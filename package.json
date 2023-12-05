@@ -1,0 +1,22 @@
+{
+  "name": "selenium-easy-web-automation",
+  "version": "1.0.0",
+  "description": "Selenium Easy Web Automation Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oadelua/SELENIUM-EASY-WEB-AUTOMATION.git"
+  },
+  "author": "Tobi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oadelua/SELENIUM-EASY-WEB-AUTOMATION/issues"
+  },
+  "homepage": "https://github.com/oadelua/SELENIUM-EASY-WEB-AUTOMATION#readme",
+  "dependencies": {
+    "cypress": "^13.5.1"
+  }
+}
