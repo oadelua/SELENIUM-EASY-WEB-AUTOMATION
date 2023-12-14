@@ -22,6 +22,6 @@ cy.get('.list-group > [href="./bootstrap-download-progress-demo.html"]').click()
 cy.get('#cricle-btn').click()
 cy.wait (3000)
 cy.visit('/')
-
+    
 })
 
